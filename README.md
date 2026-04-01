@@ -4,6 +4,15 @@
 
 Um software para integração de vendas, estoque, finaças e obrigações fiscais.
 
+## Índice
+- [Descrição](#descrição)
+- [Instalação](#instalação)
+- [Como Usar](#uso)
+- [Tecnologias](#tecnologias)
+- [Configurações](#configuração)
+- [Contribuição](#contribuição)
+- [Contao](#contato)
+
 ## Instalação
 
 git clone https://github.com/usuario/gerenciador-farmacia
@@ -16,6 +25,12 @@ Sotfware totalmente interativo e de fácil de ultilizar
 Seguindo cada tela com suas intruções
 Ultilizando apenas o teclado para registrar suas atualizações como:
 cadastro de novo produto, att do estoque, alteração de preço.
+
+## Tecnologias
+
+- Python
+- TypeScript
+- MySQL
 
 ## Configuração
 
