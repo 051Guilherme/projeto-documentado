@@ -28,3 +28,9 @@ Apenas pode alterar a linguagem que você preferir usar e alterar entre o modo c
 - Commit suas mudanças (git commit -am 'Adiciona nova funcionalidade').
 - Envie para a branch (git push origin feature/nova-funcionalidade).
 - Crie um novo Pull Request.
+
+## Contato
+- email para suporte: gui@mail.com
+(Respostas em até 48 horas)
+- telefone para suporte: 51 55 97865-9900
+(Seg - Sex 9:00 ás 17:00) 
