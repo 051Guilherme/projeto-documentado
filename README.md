@@ -11,7 +11,7 @@ Um software para integração de vendas, estoque, finaças e obrigações fiscai
 - [Tecnologias](#tecnologias)
 - [Configurações](#configuração)
 - [Contribuição](#contribuição)
-- [Contao](#contato)
+- [Contato](#contato)
 
 ## Instalação
 
